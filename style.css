@@ -11,16 +11,16 @@
 }
 body {
   height: 100%;
+  background-image: url(./img/notebook.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 #particles-js {
   position: absolute;
   height: 100%;
   width: 100%;
-  background-image: url(./img/notebook.jpg);
-  background-attachment: fixed;
-  background-size: cover;
-  background-repeat: no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
